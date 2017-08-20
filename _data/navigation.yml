@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: Projects
+  url: /projects/
+  excerpt: "A selection of projects I've been involved in."
+  image: 400x250.gif
+
+- title: Slides
+  url: /slides/
+  excerpt: "Live slides of presentations I've given."
+  image: 400x250.gif
+
+- title: Publications
+  url: /publications/
+  excerpt: "Papers published in journals or conferences."
+  image: 400x250.gif

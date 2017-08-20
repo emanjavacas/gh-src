@@ -1,0 +1,67 @@
+# Site wide configuration
+
+title: "Enrique Manjavacas Arévalo"
+description: "Personal website"
+logo: 120x120.gif
+teaser: 400x250.gif
+locale: en_US
+url:
+feed:
+  path: atom.xml
+
+# Jekyll configuration
+
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
+highlighter: rouge
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+
+
+# Site owner
+owner:
+  name: "Enrique Manjavacas Arévalo"
+  web: "https://emanjavacas.github.io"
+  twitter: "emanjava"
+  github: "emanjavacas"
+  email: "enrique.manjavacas@gmail.com"
+  bio: "Currently, PhD Student in Computational Linguistics at the University of Antwerp"
+  avatar: "profile.jpg" # 160x160 px image for author byline
+  google:
+    plus:
+    ad-client:
+    ad-slot:
+  disqus-shortname:
+
+
+include:
+  - .htaccess
+exclude:
+  - "*.less"
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - config
+  - gulpfile.js
+  - lib
+  - log
+  - node_modules
+  - package.json
+  - spec
+  - tmp
