@@ -24,6 +24,7 @@ image:
 <div class="tile">
   <h2 class="post-title">Contact</h2>
   <p class="post-excerpt">
+	You can find me online in the following sites:<br/><br/>
 	{% if site.owner.email %}<a href="mailto:{{ site.owner.email }}" class="author-social" target="_blank"><i class="fa fa-envelope-square"></i> Email</a><br/>{% endif %}
 	{% if site.owner.twitter %}<a href="http://twitter.com/{{ site.owner.twitter }}" class="author-social" target="_blank"><i class="fa fa-twitter-square"></i> Twitter</a><br/>{% endif %}
 	{% if site.owner.facebook %}<a href="http://facebook.com/{{ site.owner.facebook }}" class="author-social" target="_blank"><i class="fa fa-facebook-square"></i> Facebook</a><br/>{% endif %}
