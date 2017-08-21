@@ -151,3 +151,13 @@
     }
   }
 }
+
+/*
+   Hide js-menu on larger screens
+   ========================================================================== */
+
+#js-menu-trigger {
+  @media only screen and (min-width: 900px) {
+    visibility: hidden;
+  }
+}
