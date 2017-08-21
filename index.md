@@ -9,7 +9,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">About</h2>
-  <p class="post-excerpt">I am currently a PhD student at the University of Antwerp working on a project in Computational Linguistics. Formally, I am associated with <a href="http://www.clips.ua.ac.be/">CLiPS</a> and the Antwerp Centre for Digital humanities and literary Criticism.</p>
+  <p class="post-excerpt">I am currently a PhD student at the University of Antwerp working on a project in Computational Linguistics. Formally, I am associated with <a href="http://www.clips.ua.ac.be/">CLiPS</a> and the Antwerp Centre for Digital Humanities and Literary Criticism.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
